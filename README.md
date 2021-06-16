@@ -1,4 +1,7 @@
-# JavaScript Interview Questions
+# Preguntas de entrevistas de Javascript
+
+Repositorio basado en el orginal en inglés: [JavaScript Interview Questions
+](https://github.com/learning-zone/javascript-interview-questions)
 
 *Click <img src="assets/star.png" width="18" height="18" align="absmiddle" title="Star" /> if you like the project. Pull Request are highly appreciated.*
 
