@@ -14,7 +14,7 @@ Repositorio basado en el orginal en inglés: [JavaScript Interview Questions
 
 |Sl.No| Preguntas                                                                         |
 |-----|-----------------------------------------------------------------------------------|
-| 01.|[¿Cuál es la diferencia entre document.getElementById() y document.querySelector()?](#q-what-is-difference-between-document-getelementbyid-and-document-queryselector)|
+| 01.|[¿Cuál es la diferencia entre document.getElementById() y document.querySelector()?](#q-diferencia-entre-document-getelementbyid-y document-queryselector)|
 | 02.|[When to use reduce(), map(), foreach() and filter() in JavaScript?](#q-when-to-use-reduce-map-foreach-and-filter-in-javascript)|
 | 03.|[What is Hoisting in JavaScript?](#q-what-is-hoisting-in-javascript)|
 | 04.|[What are closures?](#q-what-are-closures)|
@@ -356,7 +356,7 @@ Repositorio basado en el orginal en inglés: [JavaScript Interview Questions
 
 <br/>
 
-## Q. ***¿Cuál es la diferencia entre document.getElementById() y document.querySelector()?***
+## Q. ***Diferencia entre document.getElementById() y document.querySelector()***
 
 * **document.getElementById()**
 
