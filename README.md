@@ -3,18 +3,18 @@
 Repositorio basado en el orginal en inglés: [JavaScript Interview Questions
 ](https://github.com/learning-zone/javascript-interview-questions)
 
-*Click <img src="assets/star.png" width="18" height="18" align="absmiddle" title="Star" /> if you like the project. Pull Request are highly appreciated.*
+*Click a la <img src="assets/star.png" width="18" height="18" align="absmiddle" title="Star" /> si te gusta el proyecto. Toda contribución mediante "Pull Request" es realmente apreciada.*
 
-## Table of Contents
+## Tabla de contenidos
 
-* *[ES6 Interview Questions and Answers](es6-questions.md)*
-* *[Programming in JavaScript](javascript-programs.md)*
+* *[Preguntas y respuestas de la entrevista ES6](es6-questions.md)*
+* *[Programando en Javascript](javascript-programs.md)*
 
 <br/>
 
-|Sl.No| Questions                                                                         |
+|Sl.No| Preguntas                                                                         |
 |-----|-----------------------------------------------------------------------------------|
-| 01.|[What is difference between document.getElementById() and document.querySelector()?](#q-what-is-difference-between-document-getelementbyid-and-document-queryselector)|
+| 01.|[¿Cuál es la diferencia entre document.getElementById() y document.querySelector()?](#q-what-is-difference-between-document-getelementbyid-and-document-queryselector)|
 | 02.|[When to use reduce(), map(), foreach() and filter() in JavaScript?](#q-when-to-use-reduce-map-foreach-and-filter-in-javascript)|
 | 03.|[What is Hoisting in JavaScript?](#q-what-is-hoisting-in-javascript)|
 | 04.|[What are closures?](#q-what-are-closures)|
