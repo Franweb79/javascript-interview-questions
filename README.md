@@ -356,7 +356,7 @@ Repositorio basado en el orginal en inglés: [JavaScript Interview Questions
 
 <br/>
 
-## Q. ***What is difference between document.getElementById() and document.querySelector()?***
+## Q. ***¿Cuál es la diferencia entre document.getElementById() y document.querySelector()?***
 
 * **document.getElementById()**
 
